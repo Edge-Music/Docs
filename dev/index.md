@@ -87,5 +87,4 @@ curl -H "Token: YOUR_TOKEN_HERE" https://api.example.com/search?keywords=周杰�
 ## 下一步
 
 - 查看[数据模型](models.md)了解API返回的数据结构
-- 查看[API参考](api-reference.md)了解所有可用的API端点
-- 查看[最佳实践](best-practices.md)了解如何高效使用API
+- 查看[API参考](api.md)了解所有可用的API端点
