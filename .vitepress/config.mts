@@ -58,7 +58,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Okysu/harmony-next-music-sharing' }
+      { icon: 'github', link: 'https://github.com/Edge-Music' }
     ]
   }
 })
