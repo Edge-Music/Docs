@@ -49,7 +49,7 @@ export default defineConfig({
             { text: '歌单', link: '/dev/playlist' },
             { text: '歌曲', link: '/dev/song' },
             { text: '艺术家', link: '/dev/artist' },
-            { text: '歌曲', link: '/dev/song' },
+            { text: '专辑', link: '/dev/album' },
             { text: '搜索', link: '/dev/search' },
             { text: 'API Reference', link: '/dev/api' },
           ]
