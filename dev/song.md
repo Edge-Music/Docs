@@ -91,6 +91,11 @@ GET /song/recommend
 
 ### 获取歌曲详情
 
+```
+GET /song/detail
+```
+获取歌曲的详细信息，包括播放URL、歌词等。
+
 **参数**:
 - `id` (id): 歌曲ID
 - `uid` (id): 用户ID，用于判断歌曲是否被用户收藏
