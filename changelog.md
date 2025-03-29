@@ -1,5 +1,28 @@
 # 更新日志
 
+## V2.0.3.5 (2025-03-29)
+
+### 新功能
+- 支持专辑搜索和专辑列表显示 [@Zitann](https://github.com/Zitann) ([3edce08](https://github.com/Edge-Music/Core/commit/3edce08))
+
+### 性能优化
+- 优化样式，取消Grid布局提升渲染性能 [@Okysu](https://github.com/Okysu) ([974bf28](https://github.com/Edge-Music/Core/commit/974bf28))
+- 底部悬浮播控避让 [@Okysu](https://github.com/Okysu) ([8ac6bda](https://github.com/Edge-Music/Core/commit/8ac6bda))
+
+### 界面优化
+- 下滑关键节点添加震动反馈，交互体验更加直观 [@lsbnbdz](https://github.com/lsbnbdz) ([c3acac4](https://github.com/Edge-Music/Core/commit/c3acac4))
+- NavDestination界面标题栏优化，视觉效果更加统一 [@lsbnbdz](https://github.com/lsbnbdz) ([c3acac4](https://github.com/Edge-Music/Core/commit/c3acac4))
+- 下拉关键节点提示词修改，操作引导更加清晰 [@lsbnbdz](https://github.com/lsbnbdz) ([c3acac4](https://github.com/Edge-Music/Core/commit/c3acac4))
+- 主页布局优化，底部避让，内容展示更加合理 [@lsbnbdz](https://github.com/lsbnbdz) ([c3acac4](https://github.com/Edge-Music/Core/commit/c3acac4))
+- 底部播控组件位置优化，可随布局改变调整位置 [@lsbnbdz](https://github.com/lsbnbdz) ([c3acac4](https://github.com/Edge-Music/Core/commit/c3acac4))
+- 调整底部播控组件进度条，避免内容被覆盖 [@lsbnbdz](https://github.com/lsbnbdz) ([c3acac4](https://github.com/Edge-Music/Core/commit/c3acac4))
+- 可滚动界面点击状态栏返回顶部，提升导航便捷性 [@lsbnbdz](https://github.com/lsbnbdz) ([c3acac4](https://github.com/Edge-Music/Core/commit/c3acac4))
+- 搜索页优化，增加下拉提示和返回动画 [@lsbnbdz](https://github.com/lsbnbdz) ([c3acac4](https://github.com/Edge-Music/Core/commit/c3acac4))
+- 主页播控组件与其他界面高度对齐，视觉一致性提升 [@lsbnbdz](https://github.com/lsbnbdz) ([ec8cb47](https://github.com/Edge-Music/Core/commit/ec8cb47))
+
+### 文档
+- README文件新增手机/平板的预览图片，直观展示应用效果 [@lsbnbdz](https://github.com/lsbnbdz) ([ec8cb47](https://github.com/Edge-Music/Core/commit/ec8cb47))
+
 ## V2.0.3 (2025-03-28)
 
 ### 新功能
