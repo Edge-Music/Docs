@@ -1,5 +1,15 @@
 # 更新日志
 
+## V2.0.4 (2025-03-31)
+### 新功能
+- 新增横屏播放器，支持横屏模式下的音乐播放和屏幕常亮 [@jizhishi](https://github.com/jizhishi) ([99fbb52](https://github.com/Edge-Music/Core/commit/99fbb52), [6df7ce8](https://github.com/Edge-Music/Core/commit/6df7ce8), [21ee6aa](https://github.com/Edge-Music/Core/commit/21ee6aa))
+### 界面优化
+- 搜索页布局优化，搜索框常驻顶层 [@lsbnbdz](https://github.com/lsbnbdz) ([e011681](https://github.com/Edge-Music/Core/commit/e011681))
+- 设置界面布局优化，数据源常驻顶层 [@lsbnbdz](https://github.com/lsbnbdz) ([e011681](https://github.com/Edge-Music/Core/commit/e011681))
+- 歌单页面布局优化 [@lsbnbdz](https://github.com/lsbnbdz) ([f9ef49b](https://github.com/Edge-Music/Core/commit/f9ef49b), [f303f68](https://github.com/Edge-Music/Core/commit/f303f68))
+- 统一设置、主页下拉提示词位置 [@lsbnbdz](https://github.com/lsbnbdz) ([e011681](https://github.com/Edge-Music/Core/commit/e011681))
+- 歌单界面与其他界面下拉动画对齐 [@lsbnbdz](https://github.com/lsbnbdz) ([f303f68](https://github.com/Edge-Music/Core/commit/f303f68))
+
 ## V2.0.3.5 (2025-03-29)
 
 ### 新功能
