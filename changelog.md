@@ -1,5 +1,29 @@
 # 更新日志
 
+## V2.0.6 (2025-04-03)
+
+### 新功能
+- 新增1×2和2×2歌单服务卡片 [@Zitann](https://github.com/Zitann) ([2292e7f](https://github.com/Edge-Music/Core/commit/2292e7f))
+- 为2×2播控卡片增加上一曲和下一曲控制按钮 [@Zitann](https://github.com/Zitann) ([4f2858a](https://github.com/Edge-Music/Core/commit/4f2858a))
+- 实现播控卡片直接跳转Playing页面功能，预留卡片跳转其他页面接口 [@Zitann](https://github.com/Zitann) ([f378161](https://github.com/Edge-Music/Core/commit/f378161))
+- 优化音乐库音源切换方式，增加选择模式 [@lsbnbdz](https://github.com/lsbnbdz) ([f507796](https://github.com/Edge-Music/Core/commit/f507796))
+
+### 界面优化
+- 优化2×2播控卡片图片大小采用百分比方式 [@Zitann](https://github.com/Zitann) ([8a85dc3](https://github.com/Edge-Music/Core/commit/8a85dc3))
+- 调整2×4播控卡片播放按钮尺寸及图标类型 [@Zitann](https://github.com/Zitann) ([13cb011](https://github.com/Edge-Music/Core/commit/13cb011))
+- 完善底部播控按钮及进度条样式 [@lsbnbdz](https://github.com/lsbnbdz) ([5478ecb](https://github.com/Edge-Music/Core/commit/5478ecb))
+- 精细调整底部播控播放按钮尺寸与位置，提升视觉协调性 [@lsbnbdz](https://github.com/lsbnbdz) ([520fd08](https://github.com/Edge-Music/Core/commit/520fd08))
+- 优化播控卡片默认封面设计 [@Zitann](https://github.com/Zitann) ([4f87681](https://github.com/Edge-Music/Core/commit/4f87681))
+
+### 错误修复
+- 修复歌曲封面主题色提取不准确问题 [@Zitann](https://github.com/Zitann) ([7df441b](https://github.com/Edge-Music/Core/commit/7df441b))
+- 解决卡片冷启动一分钟后后台终止的问题 [@Zitann](https://github.com/Zitann) ([19f0ba8](https://github.com/Edge-Music/Core/commit/19f0ba8))
+- 优化PC布局，修复列表闪烁问题和标准化歌曲列表提示效果 [@jizhishi](https://github.com/jizhishi) ([97aa959](https://github.com/Edge-Music/Core/commit/97aa959))
+
+### 其他改进
+- 恢复原有懒加载机制，修正播放标签页更改 [@lsbnbdz](https://github.com/lsbnbdz) ([424a6ff](https://github.com/Edge-Music/Core/commit/424a6ff))
+- 多处界面细节优化与代码质量改进 [@lsbnbdz](https://github.com/lsbnbdz) ([48172cf](https://github.com/Edge-Music/Core/commit/48172cf))
+
 ## V2.0.4 (2025-03-31)
 ### 新功能
 - 新增横屏播放器，支持横屏模式下的音乐播放和屏幕常亮 [@jizhishi](https://github.com/jizhishi) ([99fbb52](https://github.com/Edge-Music/Core/commit/99fbb52), [6df7ce8](https://github.com/Edge-Music/Core/commit/6df7ce8), [21ee6aa](https://github.com/Edge-Music/Core/commit/21ee6aa))
